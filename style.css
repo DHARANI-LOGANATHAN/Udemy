@@ -68,6 +68,19 @@ align-items: center;
 .My-learning:hover .Mylearning-popup{
     display:block;
 } 
+.sale{
+    position: relative;
+}
+.offer{
+    position: absolute;
+    background-color: blanchedalmond;
+    border:solid black 2px;
+    width:350px;
+    padding:10px;
+    left:40px;
+    height:80px;
+    top:60px;
+}
 .categories{
     display: flex;
     
